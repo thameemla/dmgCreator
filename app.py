@@ -5,7 +5,6 @@ import os
 import threading
 import shutil
 
-
 class AppBuilderUI:
     def __init__(self):
         self.root = tb.Window(themename="litera")  # Using a clean, modern theme
