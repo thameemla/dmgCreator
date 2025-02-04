@@ -8,7 +8,7 @@ import shutil
 root = tb.Window().winfo_toplevel()
 root.title("Create App and DMG")
 root.geometry("500x500")
-
+ 
 entry_frame = tb.Frame(master=root, padding=20)
 entry_frame.pack(side=TOP, fill=X)
 
