@@ -4,7 +4,7 @@ The piece of Python code helps to create your .py code as dmg file.
 # First run the code in the Terminal
 
 <em>
-brew install create-dmg
+brew install create-dmg <br>
 pip install pyinstaller
 </em>
 
