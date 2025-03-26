@@ -2,6 +2,7 @@
 The piece of Python code helps to create your .py code as dmg file.
 
 <h1>First run the code in the Terminal</h1>
+
 # Install create-dmg (Homebrew is required)
 brew install create-dmg
 
