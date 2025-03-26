@@ -1,6 +1,13 @@
 # dmgCreator
 The piece of Python code helps to create your .py code as dmg file.
 
+<h1>First run the code in the Terminal<\h1>
+# Install create-dmg (Homebrew is required)
+brew install create-dmg
+
+# Install pyinstaller
+pip install pyinstaller
+
 You need two things for any mac dmg creation
   1. need a .py file
   2. need an .icns file
