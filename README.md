@@ -7,7 +7,7 @@ The piece of Python code helps to create your .py code as dmg file.
 brew install create-dmg <br>
 pip install pyinstaller
 </em>
-
+<br>
 You need two things for any mac dmg creation
   <li>1. need a .py file</li>
   <li>2. need an .icns file</li> <br>
